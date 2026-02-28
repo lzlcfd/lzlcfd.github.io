@@ -1,0 +1,20 @@
+theme: jekyll-theme-architect
+
+title: Zilong Li
+author: Zilong Li
+description: Computational fluid dynamics, machine learning, reduced order modeling, and building better models :)
+
+url: "https://zilongli.github.io"
+
+header_pages:
+  - index.md
+  - research.md
+  - teaching.md
+  - code.md
+  - resources.md
+
+social-network-links:
+  email: zilongli@iastate.edu
+  github: zilongli
+
+markdown: kramdown
