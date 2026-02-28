@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-leap-day
 
 title: Zilong Li
 author: Zilong Li
@@ -9,9 +9,10 @@ url: "https://zilongli.github.io"
 header_pages:
   - index.md
   - research.md
+  - publications.md
   - teaching.md
   - code.md
-  - resources.md
+  - contact.md
 
 social-network-links:
   email: zilongli@iastate.edu
