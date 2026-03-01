@@ -7,7 +7,7 @@ title: Zilong Li
   <h1>Welcome! Thanks for stopping by :)</h1>
 </center>
 
-<img align="left" src="https://zilongli.github.io/files/images/me.jpg" alt="Zilong Li" class="left-image"/>
+<img align="left" src="https://lzlcfd.github.io/zilongli.github.io/files/images/me.jpg" alt="Zilong Li" class="left-image"/>
 
 Hello! My name is Zilong Li and I am a Ph.D. candidate in Computational Fluid Dynamics and Machine Learning at Iowa State University working under the supervision of [Dr. Ping He](https://idesign-lab.github.io/).
 
