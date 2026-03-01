@@ -13,7 +13,7 @@ Hello! My name is Zilong Li and I am a Ph.D. candidate in Computational Fluid Dy
 
 I study, implement, and extend data-driven methods for modeling complex fluid flows and turbulence. My work focuses on physics-informed machine learning, turbulence closure modeling, and developing computational tools that make advanced CFD methods accessible to researchers and engineers everywhere.
 
-**I am currently looking for a postdoctoral position in computational fluid dynamics, machine learning, reduced order modeling.**
+**I am currently looking for a postdoctoral position in computational fluid dynamics, machine learning, and reduced order modeling.**
 
 **Email:** [zilongli@iastate.edu](mailto:zilongli@iastate.edu)
 
