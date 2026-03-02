@@ -16,3 +16,4 @@ A technique for approximating a high-dimensional, computationally expensive mode
 
 ## High Fidelity computational Fluid Dynamics Simulations (DES/LES)
 
+<img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES.gif" style="width:700px !important;" />
