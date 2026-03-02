@@ -16,11 +16,13 @@ title: Zilong Li
 
 - **AERE 421 Advanced Flight Structures** (Teaching Assistant, Spring 2024)
 
-    _Analysis of indeterminate flight structures including finite element laboratory. Static analysis of complex structural components subject to thermal and aerodynamic loads. Analytical and finite element solutions for        stresses and displacements of membrane, plane stress, plate structures. Buckling of beams, frames, and plate structures. Introduction to vibration of flight structures. Steady state and transient structural response         using normal modal analysis._
+    _Analysis of statically indeterminate flight structures, including a finite element laboratory component. Static analysis of complex structural components subjected to thermal and aerodynamic loads. Analytical and           finite element methods for evaluating stresses and displacements in membrane, plane stress, and plate structures. Buckling analysis of beams, frames, and plates. Introduction to structural vibrations, including
+    steady-state and transient responses using normal mode analysis._
 
 - **AERE 461/462 Modern Design Methodology with Aerospace Applications** (Teaching Assistant, Fall 2023)
 
-    _Introduction to modern engineering design methodology. Computational constrained optimal design approach including selection of objective function, characterization of constraint system, materials and strength              considerations, and sensitivity analyses. Fundamental principles used in engineering design of space systems. Preliminary design of space vehicles._ 
+    _Introduction to modern engineering design methodologies, with emphasis on computational constrained optimization. Topics include objective function selection, constraint formulation, material and strength                   considerations, and sensitivity analysis. Fundamental principles of space systems engineering are covered, culminating in the preliminary design of space vehicles._ 
+
 
 
 
