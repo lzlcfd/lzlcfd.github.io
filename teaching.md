@@ -10,7 +10,7 @@ title: Zilong Li
 
 ## Teaching assistant in Aerospace Engineering
 
-- **AERE 362 Aerospace Systems Integration** (Teaching Assistant, Fall 2025)
+- **AERE 362 Aerospace Systems Integration** (Teaching Assistant, Spring 2022, Fall 2025)
 
     _Emphasis on impact of component interfaces in aerospace systems. Understand how changes in variables associated with individual components impact the performance of the aerospace system. Solving aerospace engineering       problems and presenting solutions through reports. Specific integration challenges include: capturing implicit disciplinary interactions (e.g. structures/aerodynamics, propulsion/aerodynamics, etc.), propagating             tolerances through the system (i.e. uncertainty modeling), balancing component attributes in the system objective._
 
@@ -21,5 +21,6 @@ title: Zilong Li
 - **AERE 461/462 Modern Design Methodology with Aerospace Applications** (Teaching Assistant, Fall 2023)
 
     _Introduction to modern engineering design methodology. Computational constrained optimal design approach including selection of objective function, characterization of constraint system, materials and strength              considerations, and sensitivity analyses. Fundamental principles used in engineering design of space systems. Preliminary design of space vehicles._ 
+
 
 
