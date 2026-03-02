@@ -20,8 +20,13 @@ I study, implement, and extend data-driven methods for modeling complex fluid fl
 # Me at a glance
 
 <center>
+<a href="https://lzlcfd.github.io/files/ZilongLiCV.pdf" class="btn-light">CV</a>
 <a href="https://github.com/lzlcfd/" class="btn-light">GitHub</a>
 <a href="https://scholar.google.com/citations?user=L5Z0s4UAAAAJ&hl=en" class="btn-light">Google Scholar</a>
 </center>
 
-
+<iframe
+  src="https://lzlcfd.github.io/files/ZilongLiCV.pdf"
+  width="100%"
+  height="1000px">
+</iframe>
