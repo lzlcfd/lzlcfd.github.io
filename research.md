@@ -30,9 +30,12 @@ A technique for approximating a high-dimensional, computationally expensive mode
 <img src="{{ site.url }}{{ site.baseurl }}/files/figures/U_mean_airfoil.png" width="45%"> <img src="{{ site.url }}{{ site.baseurl }}/files/figures/U_mode_airfoil_1.png" width="45%">
 <img src="{{ site.url }}{{ site.baseurl }}/files/figures/U_mode_airfoil_2.png" width="45%"> <img src="{{ site.url }}{{ site.baseurl }}/files/figures/U_mode_airfoil_3.png" width="45%">
 
+Fig. 4. Mean and the first three modes of velocity.
+
 ## High Fidelity computational Fluid Dynamics Simulations (DES/LES)
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES.gif" style="width:700px !important;" />
+
 
 
 
