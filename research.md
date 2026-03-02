@@ -27,9 +27,13 @@ Fig. 3. Temporal evolution of the velocity profile in the downstream
 ## Reduced Order Modeling (ROM)
 A technique for approximating a high-dimensional, computationally expensive model with a much lower-dimensional surrogate that retains the dominant physics and behavior. 
 
+<img src="{{ site.url }}{{ site.baseurl }}/files/figures/U_mean_airfoil.png" width="45%"> <img src="{{ site.url }}{{ site.baseurl }}/files/figures/U_mode_airfoil_1.png" width="45%">
+<img src="{{ site.url }}{{ site.baseurl }}/files/figures/U_mode_airfoil_2.png" width="45%"> <img src="{{ site.url }}{{ site.baseurl }}/files/figures/U_mode_airfoil_3.png" width="45%">
+
 ## High Fidelity computational Fluid Dynamics Simulations (DES/LES)
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES.gif" style="width:700px !important;" />
+
 
 
 
