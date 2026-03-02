@@ -19,7 +19,9 @@ Fig. 1. Velocity contour of the airfoil dynamic stall
 
 Fig. 2. Time series of CL and Cp
 
+<p align="center">
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_Velocity_Profile.gif" width="45%" /> <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Pitching.gif" width="45%">
+</p>
 
 Fig. 3. Temporal evolution of the velocity profile in the downstream
 
@@ -40,6 +42,7 @@ Fig. 5. Mean and the first three modes of velocity for the cylinder.
 ## High Fidelity computational Fluid Dynamics Simulations (DES/LES)
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES.gif" style="width:700px !important;" />
+
 
 
 
