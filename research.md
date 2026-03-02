@@ -11,7 +11,7 @@ title: Zilong Li
 ## Field Inversion Machine Learning (FIML)
 Data-driven approaches for RANS turbulence modeling using high-fidelity DES/LES data. Focus on improving predictions for complex flows, including separation, transition, and dynamic stall.
 
-<img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_U.gif" style="width:700px !important;" />
+<img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_U.gif" style="width:750px !important;" />
 
 Fig. 1. Velocity contour of the airfoil dynamic stall
 
@@ -19,7 +19,7 @@ Fig. 1. Velocity contour of the airfoil dynamic stall
 
 Fig. 2. Time series of CL and Cp
 
-<img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_Velocity_Profile.gif" style="width:300px !important;" />
+<img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_Velocity_Profile.gif" width="45%" /> <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Pitching.gif" width="45%">
 
 Fig. 3. Temporal evolution of the velocity profile in the downstream
 
@@ -40,6 +40,7 @@ Fig. 5. Mean and the first three modes of velocity for the cylinder.
 ## High Fidelity computational Fluid Dynamics Simulations (DES/LES)
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES.gif" style="width:700px !important;" />
+
 
 
 
