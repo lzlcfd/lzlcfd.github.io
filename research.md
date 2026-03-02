@@ -32,9 +32,15 @@ A technique for approximating a high-dimensional, computationally expensive mode
 
 Fig. 4. Mean and the first three modes of velocity for the airfoil.
 
+<img src="{{ site.url }}{{ site.baseurl }}/files/figures/U_mean_cylinder.png" width="45%"> <img src="{{ site.url }}{{ site.baseurl }}/files/figures/U_mode_cylinder_1.png" width="45%">
+<img src="{{ site.url }}{{ site.baseurl }}/files/figures/U_mode_cylinder_2.png" width="45%"> <img src="{{ site.url }}{{ site.baseurl }}/files/figures/U_mode_cylinder_3.png" width="45%">
+
+Fig. 5. Mean and the first three modes of velocity for the cylinder.
+
 ## High Fidelity computational Fluid Dynamics Simulations (DES/LES)
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES.gif" style="width:700px !important;" />
+
 
 
 
