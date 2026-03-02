@@ -16,16 +16,13 @@ Data-driven approaches for RANS turbulence modeling using high-fidelity DES/LES 
 Fig. 1. Velocity contour of the airfoil dynamic stall
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_CL.gif" style="width:500px !important;" />
-
-Fig. 2. Time series of CL
-
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_P.gif" style="width:500px !important;" />
 
-Fig. 3. Temporal evolution of the pressure profile around the airfoil
+Fig. 2. Time series of CL and Cp
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_Velocity_Profile.gif" style="width:500px !important;" />
 
-Fig. 4. Temporal evolution of the velocity profile in the downstream
+Fig. 3. Temporal evolution of the velocity profile in the downstream
 
 
 ## Reduced Order Modeling (ROM)
@@ -34,5 +31,6 @@ A technique for approximating a high-dimensional, computationally expensive mode
 ## High Fidelity computational Fluid Dynamics Simulations (DES/LES)
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES.gif" style="width:700px !important;" />
+
 
 
