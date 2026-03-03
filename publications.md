@@ -18,4 +18,19 @@ title: Zilong Li
 
 - **_Z. Li_**, J. Kou, and J. Zhang. “Numerical simulations of flows around a single spur dike in an open channel.” Chinese Journal of Computational Mechanics, 2016. Available: [https://doi.org/10.7511/jslx201602016](https://doi.org/10.7511/jslx201602016).
 
+## Conference presentations
+- P. He, <ins>Z. Li</ins>, L. Fang, and A. Sharma. “Field Inversion Machine Learning for Predicting Time-Resolved Unsteady Flows in Dynamic Stall.” presented at:
+
+  - APS Division of Fluid Dynamics Annual Meeting, 2025, Houston, TX
+  
+- <ins>Z. Li</ins>, L. Fang, A. Sharma, and P. He. “Field Inversion Machine Learning for Accurate Predictions of Time Resolved Unsteady Flows Over Airfoils.” presented at:
+
+  - AIAA SciTech Forum, 2025, Orlando, FL
+
+- <ins>Z. Li</ins> and P. He. “Airfoil Unsteady Aerodynamic Analysis Using a Galerkin Reduced order Modeling Approach.” presented at:
+
+  - AIAA SciTech Forum, 2022, San Diego, CA
+  
+
+
 
