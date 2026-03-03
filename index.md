@@ -9,9 +9,9 @@ title: Zilong Li
 
 <img align="left" src="https://lzlcfd.github.io/files/images/me.jpg" alt="Zilong Li" class="left-image"/>
 
-Hello! My name is Zilong Li and I am a Ph.D. candidate in Computational Fluid Dynamics and Machine Learning at Iowa State University working under the supervision of [Dr. Ping He](https://idesign-lab.github.io/).
+Hello! My name is Zilong Li, and I am a Ph.D. candidate in Aerospace Engineering at Iowa State University working on Computational Fluid Dynamics, Machine Learning, and Reduced Order Modeling under the supervision of [Dr. Ping He](https://idesign-lab.github.io/).
 
-I study, implement, and extend data-driven methods for modeling complex fluid flows and turbulence. My work focuses on physics-informed machine learning, turbulence closure modeling, and developing computational tools that make advanced CFD methods accessible to researchers and engineers everywhere.
+I study, implement, and extend data-driven methods for modeling unsteady aerodynamics, complex fluid flow, and turbulence. My work focuses on machine learning, turbulence closure modeling, and developing computational tools that make advanced CFD methods accessible to researchers and engineers everywhere.
 
 **I am currently looking for a postdoctoral position in computational fluid dynamics, machine learning, and reduced order modeling.**
 
