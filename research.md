@@ -42,6 +42,8 @@ Fig. 5. Mean and the first three modes of velocity for the cylinder.
 ## High Fidelity computational Fluid Dynamics Simulations (DES/LES)
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES.gif" style="width:700px !important;" />
+<img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES_Pitching.gif" style="width:700px !important;" />
+
 
 
 
