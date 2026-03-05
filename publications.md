@@ -20,7 +20,7 @@ title: Zilong Li
 
 ## Conference presentations
 - P. He, <ins>Z. Li</ins>, L. Fang, and A. Sharma. “Field Inversion Machine Learning for Predicting Time-Resolved Unsteady Flows in Dynamic Stall.” presented at:
-  - APS Division of Fluid Dynamics Annual Meeting, 2025, Houston, TX
+  - 78th APS Division of Fluid Dynamics Annual Meeting, 2025, Houston, TX
   
 - <ins>Z. Li</ins>, L. Fang, A. Sharma, and P. He. “Field Inversion Machine Learning for Accurate Predictions of Time Resolved Unsteady Flows Over Airfoils.” presented at:
   - AIAA SciTech Forum, 2025, Orlando, FL
@@ -28,6 +28,7 @@ title: Zilong Li
 - <ins>Z. Li</ins> and P. He. “Airfoil Unsteady Aerodynamic Analysis Using a Galerkin Reduced order Modeling Approach.” presented at:
   - AIAA SciTech Forum, 2022, San Diego, CA
   
+
 
 
 
