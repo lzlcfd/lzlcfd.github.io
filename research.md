@@ -23,7 +23,7 @@ Fig. 2. Time series of CL and Cp
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_Velocity_Profile.gif" width="45%" /> <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Pitching.gif" width="45%">
 </p>
 
-Fig. 3. Temporal evolution of the velocity profile in the downstream
+Fig. 3. Temporal evolution of the velocity profile in the downstream and the pitching motion of S809 airfoil.
 
 
 ## Reduced Order Modeling (ROM)
@@ -48,6 +48,7 @@ Fig. 6. DES simulation of static NACA0012 airfoil.
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES_Pitching.gif" style="width:700px !important;" />
 
 Fig. 7. DES simulation of pitching motion of NACA0012 airfoil.
+
 
 
 
