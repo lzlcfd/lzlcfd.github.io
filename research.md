@@ -42,7 +42,13 @@ Fig. 5. Mean and the first three modes of velocity for the cylinder.
 ## High Fidelity computational Fluid Dynamics Simulations (DES/LES)
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES.gif" style="width:700px !important;" />
+
+Fig. 6. DES simulation of static NACA0012 airfoil.
+
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES_Pitching.gif" style="width:700px !important;" />
+
+Fig. 7. DES simulation of pitching motion of NACA0012 airfoil.
+
 
 
 
