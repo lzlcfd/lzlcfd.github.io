@@ -49,9 +49,10 @@ Fig. 6. DES simulation of static NACA0012 airfoil.
 
 Fig. 7. DES simulation of pitching motion of NACA0012 airfoil.
 
-<img src="{{ site.url }}{{ site.baseurl }}/files/figures/Cd-comparison.png" width="30%"> <img src="{{ site.url }}{{ site.baseurl }}/files/figures/Cl-comparison.png" width="30%"> <img src="{{ site.url }}{{ site.baseurl }}/files/figures/Cm-comparison.png" width="30%">
+<img src="{{ site.url }}{{ site.baseurl }}/files/figures/Cd-comparison.png" width="33%"> <img src="{{ site.url }}{{ site.baseurl }}/files/figures/Cl-comparison.png" width="33%"> <img src="{{ site.url }}{{ site.baseurl }}/files/figures/Cm-comparison.png" width="33%">
 
 Fig. 8. Time series of Cd, Cl, and Cm comparison.
+
 
 
 
