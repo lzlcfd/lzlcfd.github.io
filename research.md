@@ -17,7 +17,7 @@ Fig. 1. Velocity contour of the airfoil dynamic stall
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_CL.gif" width="45%"> <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_P.gif" width="45%">
 
-Fig. 2. Time series of CL and Cp
+Fig. 2. Time series of CL and Cp during the dynamic stall event.
 
 <p align="center">
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_Velocity_Profile.gif" width="45%" /> <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Pitching.gif" width="45%">
@@ -51,7 +51,8 @@ Fig. 7. DES simulation of pitching motion of NACA0012 airfoil.
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/figures/Cd-comparison.png" width="45%"> <img src="{{ site.url }}{{ site.baseurl }}/files/figures/Cl-comparison.png" width="45%"> <img src="{{ site.url }}{{ site.baseurl }}/files/figures/Cm-comparison.png" width="45%">
 
-Fig. 8. Time series of Cd, Cl, and Cm comparison.
+Fig. 8. Time series of Cd, Cl, and Cm comparison during the dynamic stall event.
+
 
 
 
