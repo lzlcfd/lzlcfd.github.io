@@ -9,7 +9,7 @@ title: Zilong Li
 </center>
 
 ## Field Inversion Machine Learning (FIML)
-Data-driven approaches augment RANS turbulence modeling using high-fidelity DES/LES data. Focus on improving predictions for complex flows, including separation, transition, and dynamic stall.
+Data-driven approaches augment RANS turbulence models using high-fidelity DES/LES data. Focus on improving predictions for complex flows, including separation, transition, and dynamic stall.
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_U.gif" style="width:750px !important;" />
 
