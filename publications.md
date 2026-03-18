@@ -21,7 +21,7 @@ title: Zilong Li
 <center>
   <h1>Papers in preparation</h1>
 </center>
-- **_Z. Li_**, L. Fang, A. Sharma, and P. He. “Augment RANS turbulence models for Time-Resolved Unsteady Flows in Airfoil Dynamic Stall using High Fidelity DES/LES data.” (In preparation).
+- **_Z. Li_**, L. Fang, A. Sharma, and P. He. “Augment RANS Turbulence Models for Time-Resolved Unsteady Flows in Airfoil Dynamic Stall Using High Fidelity DES/LES data.” (In preparation).
 
 ## Conference presentations
 - P. He, <ins>Z. Li</ins>, L. Fang, and A. Sharma. “Field Inversion Machine Learning for Predicting Time-Resolved Unsteady Flows in Dynamic Stall.” presented at:
