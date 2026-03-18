@@ -18,9 +18,7 @@ title: Zilong Li
 
 - **_Z. Li_**, J. Kou, and J. Zhang. “Numerical simulations of flows around a single spur dike in an open channel.” Chinese Journal of Computational Mechanics, 2016. Available: [https://pubs.cstam.org.cn/article/doi/10.7511/jslx201602016](https://pubs.cstam.org.cn/article/doi/10.7511/jslx201602016).
 
-<center>
-  <h1>Papers in preparation</h1>
-</center>
+## Papers in preparation
 - **_Z. Li_**, L. Fang, A. Sharma, and P. He. “Augment RANS Turbulence Models for Time-Resolved Unsteady Flows in Airfoil Dynamic Stall Using High Fidelity DES/LES data.” (In preparation).
 
 ## Conference presentations
