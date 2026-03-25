@@ -49,7 +49,7 @@ Fig. 5. Mean and the first three modes of velocity for the cylinder.
 
 - **_Z. Li_** and P. He. “Airfoil Unsteady Aerodynamic Analysis Using a Galerkin Reduced order Modeling Approach.” AIAA SciTech Forum, 2022. Available: [https://doi.org/10.2514/6.2022-0080](https://doi.org/10.2514/6.2022-0080).
 
-## High Fidelity computational Fluid Dynamics Simulations (DES/LES)
+## High Fidelity Computational Fluid Dynamics Simulations (Detached Eddy Simulation-DES/Large Eddy Simulation-LES)
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/DES.gif" style="width:700px !important;" />
 
