@@ -11,7 +11,8 @@ title: Zilong Li
 ## Field Inversion Machine Learning (FIML)
 Data-driven approaches augment RANS turbulence models using high-fidelity DES/LES data. Focus on improving predictions for complex flows, including separation, transition, and dynamic stall.
 
-<img src="{{ site.url }}{{ site.baseurl }}/files/figures/nn-diagram.png" style="width:750px !important;" />
+<img src="{{ site.url }}{{ site.baseurl }}/files/figures/nn-diagram.png" style="width:700px !important;" />
+
 Fig. 1. Schematic of the multi-layer neural network (machine learning) model for augmentation field computation.
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_U.gif" style="width:750px !important;" />
