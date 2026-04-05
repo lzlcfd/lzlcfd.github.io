@@ -12,7 +12,7 @@ Here are the cool projects that I've been working on:
 
 ## ROMpisoFoam: [A C++ Package for Reduced Order Modeling based on pisoFoam solver in OpenFOAM](https://github.com/lzlcfd/ROMpisoFoam).
 
-<img src="{{ site.url }}{{ site.baseurl }}/files/animations/ROM.gif" style="width:700px !important;" />
+<img src="{{ site.url }}{{ site.baseurl }}/files/animations/ROM.gif" style="width:500px !important;" />
 
 Fig. 1. Field comparison between full-order model (FOM) and reduced-order model (ROM).
 
