@@ -11,19 +11,18 @@ title: Zilong Li
 ## Field Inversion Machine Learning (FIML)
 Data-driven approaches augment RANS turbulence models using high-fidelity DES/LES data. Focus on improving predictions for complex flows, including separation, transition, and dynamic stall.
 
+<img src="{{ site.url }}{{ site.baseurl }}/files/figures/nn-diagram.png" style="width:750px !important;" />
+Fig. 1. Schematic of the multi-layer neural network (machine learning) model for augmentation field computation.
+
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_U.gif" style="width:750px !important;" />
 
-Fig. 1. Velocity contour of the airfoil dynamic stall
+Fig. 2. Velocity contour of the airfoil dynamic stall
 
 <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_CL.gif" width="45%"> <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_P.gif" width="45%">
 
-Fig. 2. Time series of CL and Cp during the dynamic stall event.
+Fig. 3. Time series of CL and Cp during the dynamic stall event.
 
-<p align="center">
-<img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_Velocity_Profile.gif" width="45%" /> <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Pitching.gif" width="45%">
-</p>
 
-Fig. 3. Temporal evolution of the velocity profile in the downstream and the pitching motion of S809 airfoil.
 
 ### Papers on FIML:
 - **_Z. Li_**, L. Fang, A. Sharma, and P. He. “Field Inversion Machine Learning for Time-Resolved Unsteady Flows in Airfoil Dynamic Stall.” Under review in the AIAA Journal, 2025. Available: [https://arxiv.org/abs/2511.18276](https://arxiv.org/abs/2511.18276).
