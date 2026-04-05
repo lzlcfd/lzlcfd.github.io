@@ -14,3 +14,9 @@ Here are the cool projects that I've been working on:
 
 ## FIML: [A C++ Package for Field Inversion Machine Learning in OpenFOAM](https://dafoam.github.io/tutorials-fieldinversion-dynamic.html).
 
+<p align="center">
+<img src="{{ site.url }}{{ site.baseurl }}/files/animations/Airfoil_Dynamic_Stall_Velocity_Profile.gif" width="45%" /> <img src="{{ site.url }}{{ site.baseurl }}/files/animations/Pitching.gif" width="45%">
+</p>
+
+Fig. 2. Temporal evolution of the velocity profile in the downstream and the pitching motion of S809 airfoil.
+
