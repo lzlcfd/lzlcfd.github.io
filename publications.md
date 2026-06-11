@@ -8,7 +8,7 @@ title: Zilong Li
   <h1>Publications</h1>
 </center>
 
-- **_Z. Li_**, L. Fang, A. Sharma, and P. He. “Field Inversion Machine Learning for Time-Resolved Unsteady Flows in Airfoil Dynamic Stall.” Under review in the AIAA Journal, 2025. Available: [https://arxiv.org/abs/2511.18276](https://arxiv.org/abs/2511.18276).
+- **_Z. Li_**, L. Fang, A. Sharma, and P. He. “Field Inversion Machine Learning for Time-Resolved Unsteady Flows in Airfoil Dynamic Stall.” Accepted by the AIAA Journal, 2025. Available: [https://arxiv.org/abs/2511.18276](https://arxiv.org/abs/2511.18276).
 
 - **_Z. Li_**, L. Fang, A. Sharma, and P. He. “Field Inversion Machine Learning for Accurate Predictions of Time Resolved Unsteady Flows Over Airfoils.” AIAA SciTech Forum, 2025. Available: [https://doi.org/10.2514/6.2025-2049](https://doi.org/10.2514/6.2025-2049).
 
