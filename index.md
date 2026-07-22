@@ -13,7 +13,7 @@ Hello! My name is Zilong Li, and I am a Ph.D. candidate in Aerospace Engineering
 
 I study, implement, and extend data-driven methods for modeling unsteady aerodynamics, complex fluid flow, and turbulence. My work focuses on machine learning, turbulence closure modeling, and developing computational tools that make advanced CFD methods accessible to researchers and engineers everywhere.
 
-**I am currently looking for a postdoctoral position in computational fluid dynamics, machine learning, reduced order modeling, reinforcement learning, fluid-structure interactions (FSI), turbulence, and high-performance computing (HPC).**
+**I am excited to announce that I will join [Dr. Shaowu Pan](https://www.shaowupan.com/)'s Group as a Postdoc researcher at Rensselaer Polytechnic Institute this Fall.**
 
 **Email:** [zilongli@iastate.edu](mailto:zilongli@iastate.edu)
 
